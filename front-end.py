@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Load the saved model
-model = joblib.load('placement_predictor_model.pkl')
+model = joblib.load('model/placement_predictor_model.pkl')
 
 st.title("🎓 Indian Campus Placement Predictor")
 st.write("Enter your details to predict your placement probability.")
