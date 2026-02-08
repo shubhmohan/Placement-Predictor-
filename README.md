@@ -65,11 +65,12 @@ Follow these simple steps to run the project on your local machine.
 ```bash
 git clone [https://github.com/shubhmohan/Placement-Predictor.git](https://github.com/shubhmohan/Placement-Predictor.git)
 cd Placement-Predictor
+```
 
 ### Step 2: Install Dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### Step 3: Launcch the APP
 ```bash
 streamlit run app.py 
