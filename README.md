@@ -69,6 +69,7 @@ cd Placement-Predictor
 ### Step 2: Install Dependencies
 ```bash
 pip install -r requirements.txt
+```
 
 ### Step 3: Launcch the APP
 ```bash
