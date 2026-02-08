@@ -65,3 +65,37 @@ Follow these simple steps to run the project on your local machine.
 ```bash
 git clone [https://github.com/shubhmohan/Placement-Predictor.git](https://github.com/shubhmohan/Placement-Predictor.git)
 cd Placement-Predictor
+
+### Step 2: Install Dependencies
+```bash
+pip install -r requirements.txt
+
+### Step 3: Launcch the APP
+```bash
+streamlit run app.py
+
+## 📸 Demo
+----
+
+### 📅 Change Log
+[v1.2.0] - 2026-02-08
+🚀 Feature: Added "One-Hot Encoding" for better handling of branch and gender data.
+
+🎨 UI: Redesigned the Streamlit sidebar for better navigation.
+
+🐛 Fix: Resolved NaN handling for salary columns in the dataset.
+
+[v1.1.0] - 2026-02-02
+✨ Feature: Integrated coding_skill_rating into the prediction logic.
+
+📊 Viz: Added "Feature Importance" chart to show what matters most.
+
+[v1.0.0] - 2026-01-30
+🎉 Initial Release: Basic prediction using CGPA and Backlogs.
+
+## 📬 Contact
+Shubh Mohan - GitHub: github.com/shubhmohan
+
+LinkedIn: [Your LinkedIn Profile Here]
+
+<div align="center"> <sub>Built with ❤️ by Shubh Mohan</sub> </div>
