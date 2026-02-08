@@ -71,10 +71,6 @@ cd Placement-Predictor
 ```bash
 pip install -r requirements.txt
 ```
-<<<<<<< HEAD
-
-=======
->>>>>>> d24c9b4d84b18230bc28552e0295a70a5115069b
 ### Step 3: Launcch the APP
 ```bash
 streamlit run app.py 
