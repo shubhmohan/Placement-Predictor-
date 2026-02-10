@@ -53,6 +53,11 @@ Unlike generic calculators, this project uses a **Random Forest Classifier** tra
 
 ---
 
+## 😋 Check Out Now 
+College Placement Predictor : https://college-placement.streamlit.app
+
+---
+
 ## 💻 Installation & Usage
 
 Follow these simple steps to run the project on your local machine.
@@ -81,6 +86,8 @@ streamlit run app.py
 
 ### 📅 Change Log
 [v1.33] - 2026-02-10
+⚡ Deployed : Model is Live and Ready to Predict your Placement 
+
 🚀 Feature: Added "One-Hot Encoding" for better handling of branch and gender data.
 
 🎨 UI: Redesigned the Streamlit sidebar for better navigation.
