@@ -96,7 +96,7 @@ streamlit run app.py
 🎉 Initial Release: Basic prediction using CGPA and Backlogs.
 
 ## 📬 Contact
-Shubh Mohan - GitHub: github.com/shubhmohan
+Shubh Mohan - GitHub: www.github.com/shubhmohan
 
 LinkedIn: www.linkedin.com/in/shubhmohan
 
