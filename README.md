@@ -80,20 +80,16 @@ streamlit run app.py
 ----
 
 ### 📅 Change Log
-[v1.2.0] - 2026-02-08
+[v1.33] - 2026-02-10
 🚀 Feature: Added "One-Hot Encoding" for better handling of branch and gender data.
 
 🎨 UI: Redesigned the Streamlit sidebar for better navigation.
 
 🐛 Fix: Resolved NaN handling for salary columns in the dataset.
 
-[v1.1.0] - 2026-02-02
-✨ Feature: Integrated coding_skill_rating into the prediction logic.
 
-📊 Viz: Added "Feature Importance" chart to show what matters most.
-
-[v1.0.0] - 2026-01-30
-🎉 Initial Release: Basic prediction using CGPA and Backlogs.
+[v1.0] - 2026-02-05
+🎉 Initial Release: Basic prediction using CGPA and Attendance.
 
 ## 📬 Contact
 Shubh Mohan - GitHub: www.github.com/shubhmohan
