@@ -98,6 +98,6 @@ streamlit run app.py
 ## 📬 Contact
 Shubh Mohan - GitHub: github.com/shubhmohan
 
-LinkedIn: [Your LinkedIn Profile Here]
+LinkedIn: www.linkedin.com/in/shubhmohan
 
 <div align="center"> <sub>Built with ❤️ by Shubh Mohan</sub> </div>
